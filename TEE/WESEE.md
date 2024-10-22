@@ -1,10 +1,10 @@
 ## Title: 
 WESEE: Using Malicious #VC Interrupts to Break AMD SEV-SNP
 ### Basic info
-## Corresponding Authors:
-Shweta Shinde, ETH Zurich
+## Main Authors:
+Benedict Schluter, Shweta Shinde, ETH Zurich
 ### Published in: 
-S&P
+S&P 24
 ### Problems:
 #### What is your take-away message from this paper?
 Solid things, hands-on experiences.
