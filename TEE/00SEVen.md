@@ -59,6 +59,6 @@ The shortcomming might still be the primitives this paper use still are hard to 
 **closer look**
 
 ### MY READING METHODS:
-Skipping, done in 2 hours.
+Skipping, done in 2 hours. => still need to improve.
 
 But maybe a closer look should be needed, see Stanford notes later.
